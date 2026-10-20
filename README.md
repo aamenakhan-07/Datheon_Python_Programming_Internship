@@ -87,3 +87,46 @@ Python Programming Internship Participant
 Repository Purpose
 
 This repository demonstrates the implementation of Python programming tasks, problem-solving skills, data handling, and basic application development.
+
+Task 4: Rule-Based Interactive Terminal Chatbot
+
+Description
+
+This project is a rule-based interactive chatbot developed using Python. It helps users find answers to frequently asked questions related to internship support, business hours, project submission, and certificates.
+
+Features
+
+- Interactive terminal-based conversation.
+- Greeting detection for messages such as "hello", "hi", and "hey".
+- FAQ responses loaded from a JSON dataset.
+- Regex-based keyword matching and multi-intent recognition.
+- Fallback responses for unrecognized queries.
+- Exit commands: "bye", "exit", and "quit".
+- Error handling for missing or invalid JSON data.
+
+Project Files
+
+- "chatbot.py" — Main chatbot program.
+- "sample_faq.json" — Contains greeting keywords and FAQ questions with answers.
+
+Technologies Used
+
+- Python 3
+- "json" — Loading FAQ data.
+- "re" — Regular expressions and keyword matching.
+- "pathlib" — Accessing the dataset file.
+
+How to Run
+
+1. Keep "chatbot.py" and "sample_faq.json" in the same folder.
+2. Open "chatbot.py" in Python or Pydroid 3.
+3. Run the program.
+4. Ask questions about business hours, internship project submission, or certificates.
+5. Type "bye", "exit", or "quit" to end the conversation.
+
+Learning Outcomes
+
+- Understanding rule-based chatbot development.
+- Working with JSON datasets.
+- Using regular expressions for text matching.
+- Implementing error handling and conversational flow.
