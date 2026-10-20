@@ -80,12 +80,6 @@ Learning Outcomes
 - Retrieved online data using HTTP requests
 - Saved structured data to CSV files
 
-Author
-
-Python Programming Internship Participant
-
-Repository Purpose
-
 This repository demonstrates the implementation of Python programming tasks, problem-solving skills, data handling, and basic application development.
 
 Task 4: Rule-Based Interactive Terminal Chatbot
@@ -130,3 +124,9 @@ Learning Outcomes
 - Working with JSON datasets.
 - Using regular expressions for text matching.
 - Implementing error handling and conversational flow.
+
+Author
+
+Python Programming Internship Participant
+
+Repository Purpose
